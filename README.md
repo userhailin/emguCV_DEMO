@@ -7,8 +7,8 @@ This project will configure the EmguCV environment within Visual Studio and impl
 
  本项目是在visual studio 2022下实现的，安装的emguCV版本为4.2.0，所用的目标框架为.NET Framework 4.8
 
-This project has created a Windows Forms application within Visual Studio, offering a variety of processing methods encapsulated within separate controls. The interface of the form can be referred to in the image below.
+This project has created a Windows Forms application within Visual Studio, offering a variety of processing methods encapsulated within separate controls. The interface of the form can be referred to in the image below.For detailed program instructions, please refer to the user manual located in the same directory.
 
-本项目在visual studio中创建了一个窗体应用程序，提供了多种处理方法，并将其封装在了单独的控件上，窗体的界面可参考下图。  
+本项目在visual studio中创建了一个窗体应用程序，提供了多种处理方法，并将其封装在了单独的控件上，窗体的界面可参考下图。 程序详细说明请参考同级目录下的用户手册。 
 
 ![emguCV_Image](./emguCV图像.png)
