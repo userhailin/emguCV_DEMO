@@ -1,0 +1,17 @@
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\bin\Debug\EmguCV.demo5.exe.config
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\bin\Debug\EmguCV.demo5.exe
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\bin\Debug\EmguCV.demo5.pdb
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\bin\Debug\Emgu.CV.UI.dll
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\bin\Debug\Emgu.CV.World.Netstandard.dll
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\bin\Debug\ZedGraph.dll
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\bin\Debug\Emgu.CV.UI.xml
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\bin\Debug\Emgu.CV.World.Netstandard.xml
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\obj\Debug\EmguCV.demo5.csproj.AssemblyReference.cache
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\obj\Debug\EmguCV.demo5.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\obj\Debug\EmguCV.demo5.Form1.resources
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\obj\Debug\EmguCV.demo5.Properties.Resources.resources
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\obj\Debug\EmguCV.demo5.csproj.GenerateResource.cache
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\obj\Debug\EmguCV.demo5.csproj.CoreCompileInputs.cache
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\obj\Debug\EmguCV.demo5.csproj.CopyComplete
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\obj\Debug\EmguCV.demo5.exe
+C:\Users\dhl\Desktop\剑指offer\EmguCV.demo5\EmguCV.demo5\obj\Debug\EmguCV.demo5.pdb
